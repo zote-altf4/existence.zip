@@ -16,7 +16,7 @@
 
 $${ \color{cyan} \textsf{what is 42.zip compared to this? what is 32.zip either?? }}$$ ​
 
-This file is $${ \color{blue} \textsf{1 412 936 018 859 023 261 342 767 104 662 179 581 215 647 404 149 151 909 856 329 023 566 643 200 }}$$ bytes, which is roughly $${ \color{blue} 1.4129 \times 10^{48} \textsf{ YB}}$$ [^1]
+This file when _recursivelly uncompressed_ complatly is $${ \color{blue} \textsf{1 412 936 018 859 023 261 342 767 104 662 179 581 215 647 404 149 151 909 856 329 023 566 643 200 }}$$ bytes, which is roughly $${ \color{blue} 1.4129 \times 10^{48} \textsf{ YB}}$$ [^1]
 
 For comparison, this is roughly $${ \color{gold} \Large 7.9 \times 10^{28} \textsf{ times bigger than 42.zip}}$$, and yet it's 1.3 times smaller when compressed
 
